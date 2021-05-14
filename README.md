@@ -1,4 +1,4 @@
-## F4CLOUD : 물체 인식을 통한 자동 해쉬태그
+## F4CLOUD : 물체 인식을 통한 자동 해시태그
 
 ### AWS - IAM Access
    -  AmazonS3FullAccess
