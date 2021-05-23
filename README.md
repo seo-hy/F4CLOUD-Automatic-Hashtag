@@ -8,7 +8,7 @@
 ### API Usage
 * 추천 해시태그 받아오기
    * Amazon Rekognition을 이용하여 object detection
-   * Amazon Translated을 이용하여 label 번역
+   * Amazon Translate을 이용하여 label 번역
 * 해시태그 등록
 * 해시태그 검색
 
