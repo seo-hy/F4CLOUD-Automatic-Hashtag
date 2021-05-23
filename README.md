@@ -3,10 +3,7 @@
 ### AWS - IAM Access
    -  AmazonS3FullAccess
    -  AmazonRekognitionFullAccess
+      - TranslateFullAccess
 
-###  API Usage
-1. Collection 생성
-      * AWS Rekognition Collection 생성
-2. 사진 업로드
-
-### Demo
+### Automatic Hashtag Sample
+![KakaoTalk_20210523_202433895](https://user-images.githubusercontent.com/68395698/119258717-e9e6af80-bc05-11eb-8962-9abdb36f77b8.gif)
