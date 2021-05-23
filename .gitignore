@@ -1,0 +1,6 @@
+secrets.json
+venv
+.idea
+*.pyc
+*~
+__pycache__
