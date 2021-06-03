@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/68395698/120573916-51e49380-c459-11eb-9c9e-0eeba9a4a8fa.png)
 ### API
 * Get recommended hashtag
-   * object detection using Amazon Rekognition 
+   * objects and scenes detection using Amazon Rekognition 
    * Translate labels using Amazon Translate
 * Hashtag
 * Search by hashtag
