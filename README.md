@@ -6,7 +6,7 @@
    - TranslateFullAccess
 
 ### Implementation
-![image](https://user-images.githubusercontent.com/68395698/120571191-902b8400-c454-11eb-9702-e82b01d43338.png)
+![image](https://user-images.githubusercontent.com/68395698/120573727-0c27cb00-c459-11eb-9e87-a8b7f39a9ece.png)
 
 ### API
 * Get recommended hashtag
