@@ -5,7 +5,10 @@
    -  AmazonRekognitionFullAccess
    - TranslateFullAccess
 
-### API Usage
+### Implementation
+![image](https://user-images.githubusercontent.com/68395698/120571191-902b8400-c454-11eb-9702-e82b01d43338.png)
+
+### API
 * Get recommended hashtag
    * object detection using Amazon Rekognition 
    * Translate labels using Amazon Translate
