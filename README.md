@@ -6,8 +6,7 @@
    - TranslateFullAccess
 
 ### Implementation
-![image](https://user-images.githubusercontent.com/68395698/120573727-0c27cb00-c459-11eb-9e87-a8b7f39a9ece.png)
-
+![image](https://user-images.githubusercontent.com/68395698/120573916-51e49380-c459-11eb-9c9e-0eeba9a4a8fa.png)
 ### API
 * Get recommended hashtag
    * object detection using Amazon Rekognition 
