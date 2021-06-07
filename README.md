@@ -16,4 +16,4 @@
 * Search by hashtag
 
 ### Sample : Get Automatic Hashtag
-![hashtagtest](https://user-images.githubusercontent.com/68395698/120947471-a69a4e00-c77a-11eb-99af-51cbf8f10f4b.gif)
+![KakaoTalk_20210607_105856963](https://user-images.githubusercontent.com/68395698/120949423-71442f00-c77f-11eb-86d6-e3395fdc874d.gif)
