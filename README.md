@@ -16,4 +16,4 @@
 * Search by hashtag
 
 ### Sample : Get Automatic Hashtag
-![final](https://user-images.githubusercontent.com/68395698/120950323-7f934a80-c781-11eb-814a-98df5f3398bd.gif)
+![final2](https://user-images.githubusercontent.com/68395698/120950622-1e1fab80-c782-11eb-921d-fb90f6ad8c8c.gif)
